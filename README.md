@@ -1,2 +1,2 @@
 # SUV-Purchasing-pred
-MLP-18
+MLP-16
